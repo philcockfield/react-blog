@@ -1,5 +1,5 @@
 # react-blog
-react-middleware providing a modern, clean blog publishing engine.
+[react-middleware](https://github.com/philcockfield/react-middleware) providing a modern, clean blog publishing engine.
 
 
 ## Run
