@@ -1,7 +1,7 @@
 {
   "name": "react-blog",
   "version": "0.0.1",
-  "description": "react-middleware providing a fast, modern, clean blog publishing engine.",
+  "description": "React-middleware providing a fast, modern, clean blog publishing engine.",
   "main": "./lib/index.js",
   "scripts": {
     "start": "node .",
